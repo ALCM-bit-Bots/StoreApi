@@ -1,0 +1,7 @@
+bin/
+obj/
+*.user
+*.userosscache
+*.sln.docstates
+*.userprefs
+[Vv]s[Ss]_[Pp]ro[Tt]ef
